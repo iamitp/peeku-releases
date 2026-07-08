@@ -6,12 +6,12 @@ Learn more: https://peeku.app
 
 ## Download Peeku
 
+- Mac App Store coaching build: https://apps.apple.com/app/peeku-presence-coach/id6773651327?mt=12
+- Review after trying the App Store build: https://peeku.app/review
 - Full auto-lock Mac app: https://peeku.app/get
 - Direct 1.7 DMG: https://peeku.app/downloads/Peeku-1.7.dmg
-- Mac App Store coaching build: https://peeku.app/app-store
-- Review after trying the App Store build: https://peeku.app/review
 
-The full auto-lock build is distributed outside the Mac App Store because Apple's sandbox blocks automatic screen-lock commands. The Mac App Store build is a free coaching version with walk reminders, eye-rest nudges, Desk Health, and local presence signals.
+The Mac App Store build is a free coaching version with walk reminders, eye-rest nudges, Desk Health, and local presence signals. The full auto-lock build is distributed outside the Mac App Store because Apple's sandbox blocks automatic screen-lock commands.
 
 ## About This Repository
 
