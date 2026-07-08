@@ -26,6 +26,11 @@ This repository hosts the notarised DMG downloads for Peeku's direct distributio
 
 The source code repository is private. Peeku is the work of Amit Patnaik, an independent developer.
 
+## Developer Notes
+
+- [On-device Mac presence architecture](https://gist.github.com/iamitp/cf87d4fd3b51831b7a8fd1756b23c804)
+- [Why the Mac App Store build cannot auto-lock](https://gist.github.com/iamitp/5b50446a4d8cbd1e626cd1314c39f185)
+
 ## Verification
 
 To verify the integrity of the current DMG, compare its SHA-256 hash against the published checksum:
