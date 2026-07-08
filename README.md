@@ -4,6 +4,13 @@ Peeku is a private, on-device macOS app that can automatically lock your screen 
 
 Learn more: https://peeku.app
 
+Prefer the App Store build?
+
+[![Download on the Mac App Store](https://peeku.app/assets/mac-app-store-badge.svg)](https://apps.apple.com/app/peeku-presence-coach/id6773651327?mt=12)
+
+If Peeku Presence Coach helps after you try it, an honest review helps other Mac
+users find it: https://peeku.app/review
+
 ## Download Peeku
 
 - Mac App Store coaching build: https://apps.apple.com/app/peeku-presence-coach/id6773651327?mt=12
