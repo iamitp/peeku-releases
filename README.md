@@ -37,7 +37,7 @@ shasum -a 256 Peeku-1.7.dmg
 Current 1.7 SHA-256:
 
 ```text
-fab7e88214255885a0ae7ca62017d31219b843044e39dd3bb75a9b60495403c6
+7735608c7d1166f5cc221b425dcdb79e4d1d300617a0e40e7072e5a15524e15a
 ```
 
 Release notes and historical downloads are available on the [Releases](https://github.com/iamitp/peeku-releases/releases) page.
