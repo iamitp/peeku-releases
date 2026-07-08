@@ -1,28 +1,39 @@
 # Peeku Releases
 
-Peeku is a private, on-device macOS app that automatically locks your screen when you walk away, using built-in camera face detection and optional Apple Watch proximity. It coaches healthier desk habits with walk rhythm and eye-rest break reminders. No account required, no cloud face data, no video leaves your Mac.
+Peeku is a private, on-device macOS app that can automatically lock your screen when you walk away, using built-in camera face detection and optional Apple Watch proximity. It also coaches healthier desk habits with walk rhythm and eye-rest break reminders. No account required, no cloud face data, no video leaves your Mac.
 
 Learn more: https://peeku.app
 
+## Download Peeku
+
+- Full auto-lock Mac app: https://peeku.app/get
+- Direct 1.7 DMG: https://peeku.app/downloads/Peeku-1.7.dmg
+- Mac App Store coaching build: https://peeku.app/app-store
+- Review after trying the App Store build: https://peeku.app/review
+
+The full auto-lock build is distributed outside the Mac App Store because Apple's sandbox blocks automatic screen-lock commands. The Mac App Store build is a free coaching version with walk reminders, eye-rest nudges, Desk Health, and local presence signals.
+
 ## About This Repository
 
-This repository hosts the notarised DMG downloads for Peeku's direct distribution channel, along with SHA-256 checksums for verification. This enables checksum-based trust for users downloading directly from peeku.app/downloads/, version history visibility via GitHub Releases, durable per-release download statistics via the GitHub API, and CDN availability as a backup.
+This repository hosts the notarised DMG downloads for Peeku's direct distribution channel, along with SHA-256 checksums for verification. This enables checksum-based trust for users downloading directly from peeku.app, version history visibility via GitHub Releases, durable per-release download statistics via the GitHub API, and CDN availability as a backup.
 
 The source code repository is private. Peeku is the work of Amit Patnaik, an independent developer.
 
 ## Verification
 
-To verify the integrity of a downloaded DMG, compare its SHA-256 hash against the published checksum:
+To verify the integrity of the current DMG, compare its SHA-256 hash against the published checksum:
 
 ```bash
-shasum -a 256 Peeku-1.3.dmg
+shasum -a 256 Peeku-1.7.dmg
 ```
 
-Compare the output against the checksum published in the [Release Notes](https://github.com/iamitp/peeku-releases/releases).
+Current 1.7 SHA-256:
 
-## Downloads
+```text
+fab7e88214255885a0ae7ca62017d31219b843044e39dd3bb75a9b60495403c6
+```
 
-See the [Releases](https://github.com/iamitp/peeku-releases/releases) page for current and historical versions.
+Release notes and historical downloads are available on the [Releases](https://github.com/iamitp/peeku-releases/releases) page.
 
 ---
 
