@@ -4,6 +4,8 @@ Peeku reminds you to rest your eyes and take a walk while you work at your Mac. 
 
 **[Download Peeku from the Mac App Store](https://apps.apple.com/app/id6773651327?mt=12)** · macOS 14 or later · Free, with optional in-app purchases
 
+[Join the one-week Mac trial](https://github.com/iamitp/peeku-releases/issues/1).
+
 ![Peeku’s look-away reminder on macOS](assets/mac-eye-rest.png)
 
 ## Try walk-away locking
@@ -22,4 +24,4 @@ The complete app has private source. This repository is the public home for Peek
 
 ## After a week with Peeku
 
-Did you leave Peeku enabled? Which reminder or locking behaviour made you keep it, change a setting, or turn it off? A sentence about what happened is enough. [Share your experience](https://github.com/iamitp/peeku-releases/issues/new?template=week-with-peeku.md).
+Did you leave Peeku enabled? Which reminder or locking behaviour made you keep it, change a setting, or turn it off? A sentence about what happened is enough. [Reply in the trial thread](https://github.com/iamitp/peeku-releases/issues/1).
